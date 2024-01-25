@@ -1,1 +1,1 @@
-# NavidDev Gutenberg Blocks Boilerplate
+# Rijon Ahmed Gutenberg Blocks Boilerplate
